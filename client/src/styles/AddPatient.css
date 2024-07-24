@@ -1,0 +1,14 @@
+.container-ph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: 220px;
+  }
+  h1 {
+    text-align:center;
+   }
+
+   .container-ph .row{
+    margin-bottom: 20px;
+   }
